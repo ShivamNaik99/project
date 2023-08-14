@@ -312,3 +312,235 @@ ul p{
 .copyright{
     padding-top: 4px;
 }
+
+@media (min-width:350px) and (max-width:480px) {
+    .box-image{
+        height: 77px;
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+        background-size: cover;
+        
+    }
+
+}
+
+@media (min-width:350px) and (max-width:480px) {
+    .hero-messg{
+        background-color: #f3f3f3;
+        color: black;
+        height: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 89%;
+        font-size: 0.4rem;
+        margin-bottom: 19px;
+    }
+}
+
+@media (min-width:350px) and (max-width:480px) {
+    .box-content{
+        margin-left: 1rem;
+        margin-right: 1rem;
+        font-size: 4px;
+     }     
+}
+
+@media (min-width:350px) and (max-width:480px) {
+    .box{
+        height: 170px;
+        width: 23%;
+    }
+}
+
+@media (min-width:350px) and (max-width:480px) {
+    ul{
+        margin-top: 30px;
+        font-size: 7px;
+    }
+}
+
+@media (min-width:350px) and (max-width:480px){
+    ul a{
+        color: white ;
+        display: block ;
+        font-size: 0.50rem;
+        margin-top: 10px;
+        color: #dddddd;
+        text-decoration: none;
+    }
+}
+
+@media (min-width:350px) and (max-width:480px) {
+    .hero-sec{
+        background-image: url("hero_image.jpg");
+        background-size: cover;
+        height: 170px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: end;
+    
+    }
+}
+
+ @media (min-width:350px) and (max-width:480px){
+    .nav-logo.border {
+       height: 50px;
+    
+    }
+} 
+
+@media (min-width:350px) and (max-width:480px) {
+    .logo{
+        height: 40px;
+    }
+}
+@media (min-width:350px) and (max-width:480px) {
+.nav-signin.border{
+height: 50px;
+}
+}
+
+@media (min-width:350px) and (max-width:480px){
+    span {
+        font-size: 5px;
+    }
+}
+
+    @media (min-width:350px) and (max-width:480px) {
+        .panel-deals{
+            font-size: 0.40rem;
+            font-weight: 500;
+        }
+    }
+
+    @media (min-width:350px) and (max-width:480px) {
+        .panel-ops{
+            width: 70%;
+            font-size: 0.40rem;
+            
+        }
+    }
+   
+
+    @media (min-width:350px) and (max-width:480px) {
+    .panel-ops p {
+        display: inline;
+        margin-left: 12px;
+    }
+}
+
+@media (min-width:350px) and (max-width:480px) {
+    .nav-search{
+        height: 20px;
+        width: 300px;
+        border-radius: 3px;
+        justify-content: space-evenly;
+    }
+}
+
+@media (min-width:350px) and (max-width:480px) {
+    .nav-second{
+        font-size: 0.5rem;
+        font-weight: 400;
+     }
+}
+
+
+@media (min-width:350px) and (max-width:480px){
+    .nav-cart i {
+        font-size: 17px;
+     }
+}
+
+@media (min-width:350px) and (max-width:480px)
+{
+    .nav-cart{
+        font-size: 0.4rem;
+        font-weight: 400;
+     }
+}
+
+@media (min-width:350px) and (max-width:480px) {
+    .en-arrow{
+       
+        height: 14px;
+        font-size: 10px;
+     }
+}
+@media (min-width:350px) and (max-width:480px) {
+    .flag{
+        height: 18px;
+        width: 18px;
+    }
+}
+@media (min-width:350px) and (max-width:480px) {
+    .search-select{
+        
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+        width: 30px;
+        height: 25px;
+    }
+}
+@media (min-width:350px) and (max-width:480px) {
+    .search-input{
+        width: 85%;
+        font-size: 0.27rem;
+        height: 23px;
+    }
+}
+
+@media (min-width:350px) and (max-width:480px) {
+    .search-icon {
+        height: 25px;
+    }
+}
+
+@media (min-width:350px) and (max-width:480px) {
+.add-sec{
+    font-size: 0.5rem;
+    margin-left: 2px;
+ }
+}
+@media (min-width:350px) and (max-width:480px) {
+.add-first {
+    font-size: 0.50rem;
+    margin-left: 15px;
+}
+}
+
+@media (min-width:350px) and (max-width:480px) {
+.nav-adress.border{
+    display: block;
+    height: 20px;
+
+}
+}
+
+@media (min-width:350px) and (max-width:480px) {
+    .contry border{
+        display: flex;
+        font-size: 500px;
+    }
+}
+
+@media (min-width:350px) and (max-width:480px) {
+    .nav-signin border{
+        font-size: 10px;
+    }
+}
+
+@media (min-width:350px) and (max-width:480px) {
+    .foot-panel2{
+        height: 300px;
+    }
+}
+
+@media (min-width:350px) and (max-width:480px) {
+    .navbar{
+        display:flex;
+        align-content: space-evenly;
+    }
+}
